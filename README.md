@@ -1,1 +1,1 @@
-# aoe2wiki-site
+# aoe2wiki-static
